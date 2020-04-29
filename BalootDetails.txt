@@ -1,0 +1,18 @@
+BalootMain.java
+CardsInterface.java 
+	# This interface has the following methods:
+	1. public int cardNum
+	2. public int cardType <- there has to be only four types!
+
+CardsClass.java   -- to store the 4-type cards and their attributes for the
+ShuffleCards.java -- to randomize the cards
+GameType.java     -- Either Hekem or Sun?
+players.java      -- to follow the gameplay with the players
+scores.java       -- to store the scores and set the rules for winning
+
+
+Note: Cards must not duplicate! the eight cards for each player should be randomized out of a KNOWN set of 32 cards.
+
+Now each player gets 8 random cards.
+
+---Code Written By Saleh Abdullah S. Alsyefi -------  V1.0 ------ 
